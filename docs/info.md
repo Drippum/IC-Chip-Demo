@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It takes two inputs and outputs something based on the values of those in
 
 ## How to test
 
-Explain how to use your project
+Turn on simulation and hit either switch 1 or 2 to turn on the LED
+
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+There is an LED light in the circuit, but no physical components
